@@ -1,7 +1,7 @@
 # 2018-NCTU-R-Programming
 1) URL: git@github.com:jessicaohhiyo/2018-NCTU-R-Programming.git
 2) Info of Team Members:
-陳映臻 0516233
+陳映臻 0516233 no30330no.cs05@nctu.edu.tw
 吳奐萱 0413416 aharon116100.dif04@nctu.edu.tw
 蘇家萱 0413414 jessicaohhiyo.dif04@nctu.edu.tw
 3) Team Leader: 蘇家萱
